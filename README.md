@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **lakhanpalore@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kJ9Fc_dvbiWb_-oo-CgDPOOG1LbN5qMU/view?usp=share_link](https://drive.google.com/file/d/1kJ9Fc_dvbiWb_-oo-CgDPOOG1LbN5qMU/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1kJ9Fc_dvbiWb_-oo-CgDPOOG1LbN5qMU/view?usp=share_link](https://drive.google.com/file/d/1Sl8NYVto1kFjM5fDX6qmvYZNENh0IxTo/view?usp=sharing))
 
 - ⚡ Fun fact **I think I am funny**
 
