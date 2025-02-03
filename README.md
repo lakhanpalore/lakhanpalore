@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanpalore&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanpalore" /> </p>
 
-- 🔭 I’m currently working on [E-commerce Application](https://github.com/lakhanpalore/Ecom)
+- 🔭 I’m currently working on [AI Agents]
 
 - 🌱 I’m currently learning **MERN STACK, DSA**
 
-- 👯 I’m looking to collaborate on [E-commerce Application](https://github.com/lakhanpalore/Ecom)
+- 👯 I’m looking to collaborate on [AI / ML Projects]
 
-- 🤝 I’m looking for help with **Portfolio Creation**
+- 🤝 I’m looking for **Software Engineering Roles**
 
 - 💬 Ask me about **REACT, MONGO DB, DSA**
 
